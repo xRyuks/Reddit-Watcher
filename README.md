@@ -41,7 +41,7 @@ By default, the bot searches for `python` in `new` posts from `r/Python`.
 Example terminal flow used to run it:
 
 ```bash
-cd /Users/YOUR_NAME/Desktop/reddit-bot
+cd /Users/YOUR_NAME/Desktop/reddit-watcher
 source .venv/bin/activate
 python3 bot.py
 ```
